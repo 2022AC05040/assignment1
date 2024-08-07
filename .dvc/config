@@ -1,0 +1,4 @@
+[core]
+    remote = mlopsremote
+['remote "mlopsremote"']
+    url = C:\mlops_assignment1\remote_location
